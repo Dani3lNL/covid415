@@ -29,7 +29,7 @@
 ###### [Jump to Technologies](#technologies)
 
 
-__tl;dr__  [COVID415](http://covid415.herokuapp.com/#/) is a service that matches San Franciscans in self-isolation due to the novel coronavirus 2019-nCoV (also known as COVID-19) pandemic with local volunteers to deliver essentials like food and medicine.
+__tl;dr__  [COVID415](http://covid415.herokuapp.com/#/) is a service that matches San Franciscans in self-isolation due to the novel coronavirus 2019-nCoV (also known as COVID-19) pandemic with local volunteers to deliver essentials like food and medicine. (415 is one of San Francisco's two area codes)
 ###### [Jump to Interface Themes](#interfac-themes)
 
 ![home](frontend/public/homepage.png "COVID415")
